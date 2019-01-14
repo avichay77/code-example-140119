@@ -32,4 +32,15 @@ public class Example1 {
         return result;
     }
 
+
+    private void backwardExample() throws IOException {
+        
+
+        /*OkHttpClient okHttpClient = new OkHttpClient();
+        Request request = new Request.Builder().url(url).build();
+        Response response = okHttpClient.newCall(request).execute();
+        */
+        Response response ; //TODO: start here and build the snippet backward
+    }
+
 }
